@@ -17,7 +17,7 @@ function getUserInputAndCalculateSum() {
 
   alert(`The sum of the name "${name}" is: ${sum}`);
 
-  //   other possible option do display the sum
+  //   other possible option to display the sum
   //   console.log(`The sum of the name "${name}" is: ${sum}`);
 }
 
